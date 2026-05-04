@@ -1,0 +1,6 @@
+{
+  "name": "agent-pira-bot-de-analisis-de-sentimiento-mort6mt5",
+  "version": "1.0.0",
+  "description": "Proyecto de Pira [Gen19]: bot de analisis de sentimiento de noticias financieras",
+  "main": "index.js"
+}
